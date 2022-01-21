@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Observer_Examen\Observer_Examen\bin\Debug\netcoreapp3.1\Observer_Examen.exe
+C:\Users\PC\source\repos\Observer_Examen\Observer_Examen\bin\Debug\netcoreapp3.1\Observer_Examen.deps.json
+C:\Users\PC\source\repos\Observer_Examen\Observer_Examen\bin\Debug\netcoreapp3.1\Observer_Examen.runtimeconfig.json
+C:\Users\PC\source\repos\Observer_Examen\Observer_Examen\bin\Debug\netcoreapp3.1\Observer_Examen.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Observer_Examen\Observer_Examen\bin\Debug\netcoreapp3.1\Observer_Examen.dll
+C:\Users\PC\source\repos\Observer_Examen\Observer_Examen\bin\Debug\netcoreapp3.1\Observer_Examen.pdb
+C:\Users\PC\source\repos\Observer_Examen\Observer_Examen\obj\Debug\netcoreapp3.1\Observer_Examen.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Observer_Examen\Observer_Examen\obj\Debug\netcoreapp3.1\Observer_Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Observer_Examen\Observer_Examen\obj\Debug\netcoreapp3.1\Observer_Examen.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Observer_Examen\Observer_Examen\obj\Debug\netcoreapp3.1\Observer_Examen.AssemblyInfo.cs
+C:\Users\PC\source\repos\Observer_Examen\Observer_Examen\obj\Debug\netcoreapp3.1\Observer_Examen.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Observer_Examen\Observer_Examen\obj\Debug\netcoreapp3.1\Observer_Examen.dll
+C:\Users\PC\source\repos\Observer_Examen\Observer_Examen\obj\Debug\netcoreapp3.1\Observer_Examen.pdb
+C:\Users\PC\source\repos\Observer_Examen\Observer_Examen\obj\Debug\netcoreapp3.1\Observer_Examen.genruntimeconfig.cache
